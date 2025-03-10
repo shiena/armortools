@@ -1,5 +1,6 @@
 {
     "(packed)": "(パック)",
+    "+": "+",
     "-X": "-X",
     "-Y": "-Y",
     "-Z": "-Z",
@@ -107,7 +108,7 @@
     "Combine XYZ": "XYZ結合",
     "Compass": "コンパス",
     "Cone Offset": "コーンオフセット",
-    "Cone-traced AO and shadows": "コーントレースのAOとシャドウ",
+    "Cone-traced AO and shadows": "コーントレースAOとシャドウ",
     "Confirm": "確認",
     "Console": "コンソール",
     "Constant": "定数",
@@ -311,7 +312,7 @@
     "Less Than": "未満",
     "Light": "ライト",
     "Light Angle": "ライトの角度",
-    "Light Size": "ライトサイズ",
+    "Light Size": "ライトのサイズ",
     "Lighten": "比較(明)",
     "Lightmap": "ライトマップ",
     "Linear": "リニア",
@@ -425,7 +426,7 @@
     "Per Udim Tile": "Udimタイル毎",
     "Perspective": "透視投影",
     "Photo to PBR": "画像をPBRへ",
-    "Physics": "物理演算",
+    "Physics": "物理",
     "Picked Color": "選択した色",
     "Picker": "ピッカー",
     "Pictures": "ピクチャ",
@@ -556,6 +557,7 @@
     "TexCoord": "テクスチャ座標",
     "Texels": "テクセル",
     "Text": "テキスト",
+    "Text Texture": "テキストテクスチャ",
     "Text to Photo": "テキストを画像へ",
     "Texture": "テクスチャ",
     "Texture Coordinate": "テクスチャ座標",
@@ -660,5 +662,6 @@
     "triangles": "三角面",
     "untitled": "無題",
     "use_clamp": "制限を使用",
+    "x": "x",
     "{shortcut} and move mouse": "{shortcut}とマウス移動"
 }
